@@ -1,4 +1,4 @@
 # Splash-Page
 
 
-![alt text]()
+![alt text](https://github.com/ezenielrios/Splash-Page/blob/main/figma.png)
